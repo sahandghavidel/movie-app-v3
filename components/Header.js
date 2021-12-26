@@ -13,7 +13,7 @@ export default function Header() {
   return (
     <header className="select-none bg-gray-700 text-gray-200 flex justify-between p-3 flex-col items-center sm:flex-row">
       <div className="flex items-center">
-        <HeaderIcon title="HOME" Icon={HomeIcon} />
+        <HeaderIcon title="HOME 2" Icon={HomeIcon} />
         <HeaderIcon title="ACCOUNT" Icon={UserIcon} />
         <HeaderIcon title="CONTACT" Icon={PhoneIcon} />
         <HeaderIcon title="ABOUT" Icon={InformationCircleIcon} />
